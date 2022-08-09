@@ -1,5 +1,11 @@
 # calendar
 
+## 注意：
+
+由于项目创建初期，使用了聚合API，在调取数据方面有次数限制，不利于开发，所以本人已停止开发和修改代码
+
+但你仍然可以通过 `git clone`来下载代码到本地，并安装依赖，运行，来查看一些代码
+
 ## Project setup
 ```
 npm install
@@ -20,5 +26,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
